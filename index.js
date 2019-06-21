@@ -11,5 +11,5 @@ function logShout(string){
 }
 
 function sayHiToGrandma(string){
-  if  
+  if  'string'.eq
 }
